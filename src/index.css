@@ -10,20 +10,6 @@ body {
     max-width: 375px;
 }
 
-@media screen and (min-width: 768px) {
-    #root {
-        max-width: 768px;
-        padding: 16px;
-    }
-}
-
-@media screen and (min-width: 1440px) {
-    #root {
-        max-width: 1440px;
-        padding: 20px;
-    }
-}
-
 h1,
 h2,
 h3,
